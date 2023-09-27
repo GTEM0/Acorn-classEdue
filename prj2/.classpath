@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/clothes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/JH_Ex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/JH_라이브러리연습.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/mgv-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/MM3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/MyMath.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/NJ.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/twoSum.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/길드가입신청서.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/박태민_리모컨 라이브러리.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hbi1/git/repository/javaPrj/src/라이브러리모음/스토어.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
